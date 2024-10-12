@@ -1,4 +1,5 @@
 var __BLOCKEDSITES__ = [
+  "*.microsoft.com",
   "*.gelbooru.com",
   "*.ua",
   "*.10minutemail.com",
