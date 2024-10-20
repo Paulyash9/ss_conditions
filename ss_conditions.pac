@@ -1,4 +1,5 @@
 var __BLOCKEDSITES__ = [
+  "crunchyroll.com",
   "habr.com",
   "download.microsoft.com",
   "*.gelbooru.com",
