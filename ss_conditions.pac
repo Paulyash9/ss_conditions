@@ -1,5 +1,5 @@
 var __BLOCKEDSITES__ = [
-  "whatismyipaddress.com",
+  "*.whatismyipaddress.com",
   "discord-attachments-uploads-prd.storage.googleapis.com",
   "*.discord.co",
   "*.discord.com",
