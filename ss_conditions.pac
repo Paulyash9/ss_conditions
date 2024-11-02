@@ -1,4 +1,5 @@
 var __BLOCKEDSITES__ = [
+  "2ip.io"
   "*.whatismyipaddress.com",
   "discord-attachments-uploads-prd.storage.googleapis.com",
   "*.discord.co",
