@@ -344,6 +344,7 @@ var __BLOCKEDSITES__ = [
   "*.politzek.org",
   "*.pornolab.net",
   "*.pornhub.com",
+  "*.phncdn.com",
   "*.posle.media",
   "*.postimees.ee",
   "*.primevideo.com",
