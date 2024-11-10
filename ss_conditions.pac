@@ -146,6 +146,7 @@ var __BLOCKEDSITES__ = [
   "*.err.ee",
   "*.ert.gr",
   "*.ertnews.gr",
+  "etahub.com",
   "*.euobserver.com",
   "*.euronews.com",
   "*.euroradio.fm",
