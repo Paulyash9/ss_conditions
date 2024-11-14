@@ -1,4 +1,5 @@
 var __BLOCKEDSITES__ = [
+  "*.gvt2.com",
   "*.warframe.com",
   "2ip.io",
   "*.whatismyipaddress.com",
