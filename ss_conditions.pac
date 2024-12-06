@@ -1,5 +1,6 @@
 var __BLOCKEDSITES__ = [
   "d3ward.github.io",
+  "animego.org",
   "*.gvt2.com",
   "*.warframe.com",
   "2ip.io",
