@@ -1,5 +1,6 @@
 var __BLOCKEDSITES__ = [
   "d3ward.github.io",
+  "animego.org",
   "anixart.me",
   "amedia.online",
   "animelib.me",
