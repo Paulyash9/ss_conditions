@@ -1,4 +1,5 @@
 var __BLOCKEDSITES__ = [
+  "cub.red",
   "d3ward.github.io",
   "animego.org",
   "anixart.me",
