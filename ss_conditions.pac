@@ -1,5 +1,5 @@
 var __BLOCKEDSITES__ = [
-  "alamy.com",
+  "*.alamy.com",
   "animego.me",
   "cub.red",
   "d3ward.github.io",
