@@ -1,4 +1,5 @@
 var __BLOCKEDSITES__ = [
+  "youtu.be",
   "orbit-games.com",
   "*.alamy.com",
   "animego.me",
