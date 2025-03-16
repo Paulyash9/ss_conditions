@@ -1,4 +1,5 @@
 var __BLOCKEDSITES__ = [
+  "kemono.su",
   "youtu.be",
   "orbit-games.com",
   "*.alamy.com",
