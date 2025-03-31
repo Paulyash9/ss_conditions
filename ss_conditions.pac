@@ -1,4 +1,5 @@
 var __BLOCKEDSITES__ = [
+  "darklibria.it",
   "anilibria.top",
   "kemono.su",
   "youtu.be",
