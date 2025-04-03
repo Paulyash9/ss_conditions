@@ -1,4 +1,5 @@
 var __BLOCKEDSITES__ = [
+  "*.gitbook.io",
   "mediafire.com",
   "stackoverflow.com",
   "darklibria.it",
