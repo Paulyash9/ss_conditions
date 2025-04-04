@@ -6,6 +6,7 @@ var __BLOCKEDSITES__ = [
   "*.stackoverflow.com",
   "*.darklibria.it",
   "*.anilibria.top",
+  "*.audiotouch.info",
   "kemono.su",
   "youtu.be",
   "orbit-games.com",
