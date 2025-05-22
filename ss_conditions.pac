@@ -1,4 +1,5 @@
 var __BLOCKEDSITES__ = [
+  "*.nexus-cdn.com",
   "*.gitbook.com",
   "*.gitbook.io",
   "*.mediafire.com",
