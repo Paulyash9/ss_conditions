@@ -1,5 +1,5 @@
 var __BLOCKEDSITES__ = [
-  "emulator-zone.com"
+  "emulator-zone.com",
   "pcsx2.net",
   "nexusmods.com",
   "supporter-files.nexus-cdn.com",
