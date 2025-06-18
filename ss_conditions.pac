@@ -1,4 +1,5 @@
 var __BLOCKEDSITES__ = [
+  "roskomsvoboda.org",
   "emulator-zone.com",
   "pcsx2.net",
   "nexusmods.com",
