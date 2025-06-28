@@ -1,4 +1,5 @@
 var __BLOCKEDSITES__ = [
+  "steamdb.info",
   "roskomsvoboda.org",
   "emulator-zone.com",
   "pcsx2.net",
