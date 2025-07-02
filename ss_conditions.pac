@@ -1,4 +1,5 @@
 var __BLOCKEDSITES__ = [
+  "lu4.live",
   "microsoft.com",
   "steamdb.info",
   "roskomsvoboda.org",
