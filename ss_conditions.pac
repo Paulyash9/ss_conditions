@@ -1,4 +1,5 @@
 var __BLOCKEDSITES__ = [
+  "aeza.net",
   "lu4.live",
   "microsoft.com",
   "steamdb.info",
