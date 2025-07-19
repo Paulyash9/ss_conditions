@@ -22,7 +22,6 @@ var __BLOCKEDSITES__ = [
   "*.alamy.com",
   "cub.red",
   "d3ward.github.io",
-  "animego.org",
   "anixart.me",
   "amedia.online",
   "animelib.me",
