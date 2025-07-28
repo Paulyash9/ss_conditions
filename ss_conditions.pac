@@ -1,4 +1,5 @@
 var __BLOCKEDSITES__ = [
+  "*.jetbrains.com",
   "naruto-base.tv",
   "aeza.net",
   "lu4.live",
