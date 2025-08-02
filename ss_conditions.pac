@@ -1,5 +1,5 @@
 var __BLOCKEDSITES__ = [
-  "artstation.com",
+  "*.artstation.com",
   "*.jetbrains.com",
   "naruto-base.tv",
   "aeza.net",
