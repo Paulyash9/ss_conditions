@@ -1,4 +1,5 @@
 var __BLOCKEDSITES__ = [
+  "*.e-hentai.org",
   "*.grok.com",
   "*.artstation.com",
   "*.jetbrains.com",
