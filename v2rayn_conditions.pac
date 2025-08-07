@@ -1,5 +1,5 @@
 var __BLOCKEDSITES__ = [
-  "bober-tunnel.duckdns.org",
+  "*.bober-tunnel.duckdns.org",
   "*.e-hentai.org",
   "*.grok.com",
   "*.artstation.com",
