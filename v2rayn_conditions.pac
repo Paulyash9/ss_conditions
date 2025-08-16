@@ -1,6 +1,6 @@
 var __BLOCKEDSITES__ = [
   "steamdb.info",
-  "*.duckdns.org",
+  "bober-tunnel.duckdns.org:65000",
   "*.e-hentai.org",
   "*.grok.com",
   "*.artstation.com",
